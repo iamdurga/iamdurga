@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/durgacodes" target="blank"><img src="https://img.shields.io/twitter/follow/durgacodes?logo=twitter&style=for-the-badge" alt="durgacodes" /></a> </p>
 
-- 🔭 I’m currently working on [Nepali News Scrapping](https://github.com/iamdurga/Nepali-News-Portal-Scrapping)
+- 🔭 I’m currently working on [Healthy and Infected Segmentation of Orange Datasets Project ](https://www.kaggle.com/datasets/durgapokharel/orange-infection-mask-dataset)
 
-- 🌱 I’m currently learning **R for Data Analysis, Master In Data Science.**
-
-- 🤝 I’m looking for help with [Sentiment Analysis of Nepali News](https://github.com/iamdurga/Nepali-News-Portal-Scrapping)
+- 🌱 I’m currently learning **Computer Vision with Pytorch**
 
 - 📝 I regularly write articles on [https://iamdurga.github.io](https://iamdurga.github.io)
 
-- 💬 Ask me about **Python Basic, Bachelor Mathematics, R Basic.**
+- 💬 Ask me about **Python, Mathematics, R, Machine Learning, NLP**
 
 - 📫 How to reach me **pokhareldurga88@gmail.com**
 
-- ⚡ Fun fact **I did Mathematics In Bachelor.**
+- ⚡ Fun fact **I have a Data Science Master Degree.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
