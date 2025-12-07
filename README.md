@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Healthy and Infected Segmentation of Orange Datasets Project ](https://www.kaggle.com/datasets/durgapokharel/orange-infection-mask-dataset)
 
-- 🌱 I’m currently learning **Computer Vision with Pytorch**
+- 🌱 I’m currently learning ** LLM with Python **
 
 - 📝 I regularly write articles on [https://iamdurga.github.io](https://iamdurga.github.io)
 
-- 💬 Ask me about **Python, Mathematics, R, Machine Learning, NLP**
+- 💬 Ask me about **Python, Mathematics, R, Machine Learning, NLP, Computer Vision**
 
 - 📫 How to reach me **pokhareldurga88@gmail.com**
 
-- ⚡ Fun fact **I have a Data Science Master Degree.**
+- ⚡ Fun fact **I have a Data Science Master's Degree.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
